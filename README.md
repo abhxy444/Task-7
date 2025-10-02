@@ -10,11 +10,11 @@ Google Chrome
 
 Mozilla Firefox
 
-2. Extension Review & Removal Process
+## 2. Extension Review & Removal Process
 
 I reviewed the installed extensions step by step to identify suspicious behavior:
 
-A. Review of Installed Extensions
+# A. Review of Installed Extensions
 
 Opened the browser’s extension manager.
 
@@ -22,7 +22,7 @@ Listed all installed add-ons.
 
 Marked extensions I didn’t use often or didn’t remember installing.
 
-B. Permission Analysis
+# B. Permission Analysis
 
 Checked permissions of each extension.
 
@@ -36,13 +36,13 @@ Modifying downloads
 
 Cross-verified with online reviews to confirm risks.
 
-C. Removal of Suspicious Extensions
+# C. Removal of Suspicious Extensions
 
 Removed unnecessary or unknown extensions.
 
 Restarted the browser to ensure complete removal.
 
-3. Evaluation Results
+## 3. Evaluation Results
 
 Suspicious Extensions Found:
 
@@ -62,7 +62,7 @@ Browser became faster after removal.
 
 Reduced random pop-ups and tracking cookies.
 
-4. Security Awareness & Research
+## 4. Security Awareness & Research
 
 Malicious browser extensions can:
 
@@ -86,6 +86,6 @@ Report suspicious extensions to Chrome Web Store / Firefox Add-ons.
 
 
 
-✅ Outcome
+## ✅ Outcome
 
 By completing this task, I gained awareness of browser security risks and the importance of regularly auditing extensions. Removing unused and suspicious add-ons improved performance and reduced the chance of malware infections.
