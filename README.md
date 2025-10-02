@@ -1,4 +1,4 @@
-## Task 7: Identify and Remove Suspicious Browser Extensions
+# Task 7: Identify and Remove Suspicious Browser Extensions
 1. Project Objective
 
 This project, as part of the Elevate Labs Cyber Security Internship, focuses on recognizing and managing browser extensions that may pose security risks.
@@ -14,7 +14,7 @@ Mozilla Firefox
 
 I reviewed the installed extensions step by step to identify suspicious behavior:
 
-# A. Review of Installed Extensions
+### A. Review of Installed Extensions
 
 Opened the browser’s extension manager.
 
@@ -22,7 +22,7 @@ Listed all installed add-ons.
 
 Marked extensions I didn’t use often or didn’t remember installing.
 
-# B. Permission Analysis
+### B. Permission Analysis
 
 Checked permissions of each extension.
 
@@ -36,7 +36,7 @@ Modifying downloads
 
 Cross-verified with online reviews to confirm risks.
 
-# C. Removal of Suspicious Extensions
+### C. Removal of Suspicious Extensions
 
 Removed unnecessary or unknown extensions.
 
