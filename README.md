@@ -23,7 +23,7 @@ Listed all installed add-ons.
 Marked extensions I didn’t use often or didn’t remember installing.
 
 ### B. Permission Analysis
-
+6
 Checked permissions of each extension.
 
 Noted suspicious requests like:
